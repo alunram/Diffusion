@@ -3,5 +3,4 @@ Práctica final de la asignatura 'Visión por Computador', curso 2023/2024. Grup
 
 
 
-En este proyecto realizamos un estudio de los Modelos de Difusión aplicados a la generación de imágenes, enfocando nuestra investigación en la sı́ntesis de automóviles a partir del ”Stanford Cars Dataset”. Mediante la adaptación y modificación de una arquitectura preexistente, con-
-seguimos producir representaciones de vehı́culos en resolución 32x32.
+En este proyecto realizamos un estudio de los Modelos de Difusión aplicados a la generación de imágenes, enfocando nuestra investigación en la sı́ntesis de automóviles a partir del ”Stanford Cars Dataset”. Mediante la adaptación y modificación de una arquitectura preexistente, conseguimos producir representaciones de vehı́culos en resolución 32x32.
